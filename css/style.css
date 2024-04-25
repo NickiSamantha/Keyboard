@@ -1,0 +1,54 @@
+*::before
+*::after {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-align: center;
+}
+::-webkit-scrollbar{
+    display: none;
+}
+h6{
+    font-size: 30px;
+    text-align: center;
+}
+.Keyboard{
+    padding: 10px;
+    background-color: aquamarine;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.KeyboardRow1{
+    text-align: center;
+}
+.KeyboardRow2{
+    text-align: center;
+}
+.KeyboardRow3{
+    text-align: center;
+}
+.KeyboardRow4{
+    text-align: center;
+}
+.KeyboardRow5{
+    text-align: center;
+}
+.KeyboardRow6{
+    text-align: center;
+}
+.btn85{
+    padding: 0 126px;
+}
+.btn65{
+    padding: 0 52px;
+}
+.btn51{
+    padding: 0 52px;
+}
+.btn80{
+    padding: 0 56px;
+}
+.btn66{
+    padding: 0 56px;
+
+}
