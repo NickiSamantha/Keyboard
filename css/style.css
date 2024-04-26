@@ -11,12 +11,19 @@
 h6{
     font-size: 30px;
     text-align: center;
+    color: aquamarine;
+    background-color: black;
+    margin-left: 260px;
+    margin-right: 260px;
 }
 .Keyboard{
     padding: 10px;
     background-color: aquamarine;
     margin-left: 40px;
     margin-right: 40px;
+    box-shadow: tomato;
+    border: 10px;
+    color: black;
 }
 .KeyboardRow1{
     text-align: center;
@@ -51,4 +58,10 @@ h6{
 .btn66{
     padding: 0 56px;
 
+}
+.btn33{
+    padding: 0 73px;
+}
+.btn34{
+    padding: 0 95px;
 }
