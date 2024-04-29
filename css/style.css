@@ -13,17 +13,21 @@ h6{
     text-align: center;
     color: aquamarine;
     background-color: black;
-    margin-left: 260px;
-    margin-right: 260px;
+    margin-left: 26rem;
+    margin-right: 26rem;
 }
 input[data-output]{
-    text-align: right;
+    text-align: center;
+    margin-left: 26rem;
+    margin-right: 26rem;
+    width: 42.5rem;
 }
+
 .Keyboard{
     padding: 10px;
     background-color: aquamarine;
-    margin-left: 40px;
-    margin-right: 40px;
+    margin-left: 26rem;
+    margin-right: 26rem;
     box-shadow: tomato;
     border: 10px;
     color: black;
