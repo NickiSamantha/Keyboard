@@ -16,6 +16,9 @@ h6{
     margin-left: 260px;
     margin-right: 260px;
 }
+input[data-output]{
+    text-align: right;
+}
 .Keyboard{
     padding: 10px;
     background-color: aquamarine;
